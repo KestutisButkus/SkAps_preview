@@ -52,3 +52,5 @@ funkcijas, skirtas valdyti grupes, periodus, klientus, jų duomenis, mokėjimus 
 - **PyQt5**
 - **SQLite**
 - **SQLAlchemy** (duomenų bazės valdymui)
+
+![](img/db.png)
