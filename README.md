@@ -12,18 +12,22 @@ funkcijas, skirtas valdyti grupes, periodus, klientus, jų duomenis, mokėjimus 
 ## Funkcijos
 
 - **Grupių valdymas**: Kurkite, redaguokite ir peržiūrėkite grupes.
+
 ![](img/create_customers_group.png)
 
 
 - **Periodų valdymas**: Valdykite apskaitos periodus.
+
 ![](img/period.png)
 
 
 - **Klientų valdymas**: Kurkite naujus klientus.
+
 ![](img/create_customer.png)
 
 
 - **Duomenų valdymas**: Peržiūrėkite klientų informaciją, Tvarkykite, redaguokite jų duomenis.
+
 ![](img/customer_data.png)
 
 
@@ -31,7 +35,9 @@ funkcijas, skirtas valdyti grupes, periodus, klientus, jų duomenis, mokėjimus 
 <p><img src="img/payment_c.png" alt="Payment 1" style="display:inline-block;"/> <img src="img/payment_g.png" alt="Payment 2" style="display:inline-block;"/></p>
 
 - **Sąskaitų valdymas**: Generuokite ir tvarkykite sąskaitas.
+
 ![](img/invoices.png)
+
 ![](img/invoice.png)
 
 ## Naudojimas
