@@ -1,4 +1,7 @@
-# SkAps - Skaitiklių Apskaitos Programa
+# SkAps - Skaitiklių Apskaitos Programa (django)
+![](img/screen1.png)
+
+# SkAps - Skaitiklių Apskaitos Programa (PyQT)
 
 ![](img/screen.png)
 
