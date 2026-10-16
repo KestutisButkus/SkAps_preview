@@ -48,12 +48,3 @@ funkcijas, skirtas valdyti grupes, periodus, klientus, jų duomenis, mokėjimus 
 1. **Grupių sąrašo peržiūra**: Grupės rodomos su jų pavadinimu, ID, klientų skaičiumi, skaitiklio ID ir tipu, bei grupės
    sąskaitos likučiu.
 2. ...
-
-## Technologijos
-
-- **Python**
-- **PyQt5**
-- **SQLite**
-- **SQLAlchemy** (duomenų bazės valdymui)
-
-![](img/db.png)
